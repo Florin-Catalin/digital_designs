@@ -16,3 +16,19 @@ LANGUAGE=VHDL
 REFRESH_FLOW=1
 FLOWTOOLS=NONE
 FAMILY=
+[Files]
+/D_ff.vhd=-1
+/mod2_adder.vhd=-1
+/d_ff.asdb=-1
+/d_ff.awc=-1
+/T1.vhd=-1
+/T1.asdb=-1
+/T1.awc=-1
+[Files.Data]
+.\src\D_ff.vhd=VHDL Source Code
+.\src\mod2_adder.vhd=VHDL Source Code
+.\src\d_ff.asdb=Accelerated Waveform File
+.\src\d_ff.awc=Accelerated Waveform Configuration
+.\src\T1.vhd=VHDL Source Code
+.\src\T1.asdb=Accelerated Waveform File
+.\src\T1.awc=Accelerated Waveform Configuration
