@@ -1,0 +1,19 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=state_addressing
+[Library]
+state_addressing=.\state_addressing\state_addressing.lib
+[$LibMap$]
+state_addressing=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+C:\Users\florin\Desktop\digital_designs\synchronous_automata_with_memories\state_addressing\state_addressing.adf

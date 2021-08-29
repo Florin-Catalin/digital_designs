@@ -1,0 +1,13 @@
+[Version]
+Version=11.1
+C:\Users\florin\Desktop\digital_designs\synchronous_automata_with_memories\synchronous_automata_with_memories.aws
+[Designs]
+state_addressing=.\state_addressing\state_addressing.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+state_addressing=1
