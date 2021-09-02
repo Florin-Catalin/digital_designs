@@ -17,3 +17,27 @@ REFRESH_FLOW=1
 FLOWTOOLS=NONE
 FAMILY=
 C:\Users\florin\Desktop\digital_designs\synchronous_automata_with_memories\state_addressing\state_addressing.adf
+[Files]
+/mux8.vhd=-1
+/memory.vhd=-1
+/register.vhd=-1
+/CLC.vhd=-1
+/counter.vhd=-1
+/automata.vhd=-1
+/untitled.asdb=-1
+/untitled.awc=-1
+[Files.Data]
+.\src\mux8.vhd=VHDL Source Code
+.\src\memory.vhd=VHDL Source Code
+.\src\register.vhd=VHDL Source Code
+.\src\CLC.vhd=VHDL Source Code
+.\src\counter.vhd=VHDL Source Code
+.\src\automata.vhd=VHDL Source Code
+.\src\untitled.asdb=Accelerated Waveform File
+.\src\untitled.awc=Accelerated Waveform Configuration
+[SpecTracer]
+WindowVisible=0
+[HierarchyViewer]
+HierarchyInformation=automat|ARH_AUT|0 
+ShowHide=ShowTopLevel
+Selected=

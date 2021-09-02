@@ -1,0 +1,40 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+
+[Configurations]
+compile=asynchronous_automata
+
+[Library]
+asynchronous_automata=.\asynchronous_automata\asynchronous_automata.lib
+
+[$LibMap$]
+asynchronous_automata=.
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+
+[Files]
+/inv.vhd=-1
+/or3.vhd=-1
+/and4.vhd=-1
+/asynch_top1.vhd=-1
+
+[Files.Data]
+.\src\inv.vhd=VHDL Source Code
+
+.\src\or3.vhd=VHDL Source Code
+.\src\and4.vhd=VHDL Source Code
+.\src\asynch_top1.vhd=VHDL Source Code
+[SpecTracer]
+WindowVisible=0
+[HierarchyViewer]
+HierarchyInformation=asynch_a1|a1|0 
+ShowHide=ShowTopLevel
+Selected=

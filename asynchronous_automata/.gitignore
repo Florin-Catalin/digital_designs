@@ -1,0 +1,25 @@
+# Aldec ActiveHDL .gitignore
+
+*.asdb/
+log/
+Edfmap.ini
+*.wsp
+*.wsf
+*.log
+*.erf
+*.sth
+*.cmd
+compile/
+*.set
+
+# Comment to save compilation order:
+compilation.order
+projlib.cfg
+library.cfg
+*.lib
+*.mgf
+
+# Uncomment to ignore simulation results
+#*.awc
+#*.asdb
+synthesis.order

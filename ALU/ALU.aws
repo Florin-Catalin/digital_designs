@@ -1,0 +1,14 @@
+[Version]
+Version=11.1
+[Designs]
+alu_from_2020_exam=.\ALU_from_2020_exam\ALU_from_2020_exam.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+alu_from_2020_exam=1
+[Settings]
+Active=alu_from_2020_exam

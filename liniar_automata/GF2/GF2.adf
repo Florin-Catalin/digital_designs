@@ -32,3 +32,9 @@ FAMILY=
 .\src\T1.vhd=VHDL Source Code
 .\src\T1.asdb=Accelerated Waveform File
 .\src\T1.awc=Accelerated Waveform Configuration
+[HierarchyViewer]
+HierarchyInformation=d_ff|a1|0 t1|struct_a1|0 
+ShowHide=ShowTopLevel
+Selected=
+[SpecTracer]
+WindowVisible=0
